@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shantanu2605
+- 👋 Hi, I’m Shantanu
 - 👀 I’m interested in Programming, especially when it is of high level.
 - 🌱 I’m currently learning Web Development using Django.
 - 💞️ I’m looking to collaborate on ...
