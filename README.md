@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shantanu
 - 👀 I’m interested in Programming, especially when it is of high level.
 - 🌱 I’m have experience in Web Development of about 2 years.
-- 💞️ I’m also a high level Java programmer
+- 💞️ I’m also an intermediate Java programmer
 - 📫 How to reach me is a secret!
 
 <!---
